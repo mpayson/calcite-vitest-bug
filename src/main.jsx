@@ -1,3 +1,4 @@
+import React from "react";
 import { CalciteNotice, CalciteLink } from '@esri/calcite-components-react';
 
 function App() {
